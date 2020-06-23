@@ -1,0 +1,56 @@
+
+This _text_ file describes rob.mdl - formed for Half_Life Deathmatch gaming.
+================================
+
+Model name:		rob.mdl
+Model properties:	vertices - 727 
+			triangles - 870 (sorry)
+			materials - 2 (256x256, 128x128; body, face)
+
+What is it?
+Its a rob, ahem, I mean robot.
+If you ever watched Forbidden Planet or the original Lost in Space -
+then rob may look familiar.
+
+Why?
+It was an interesting challenge and I thought it would look cool
+in HL DM.
+
+Who is the crazy dude that made it?
+Matt Thomas aka Gumby on WON - DeathMatch Master in training.
+
+Where?
+yargeth@kellnet.com
+
+What?
+It was made entirely in Milkshop - Yay!
+The awesome skin was created by meself using Paintshop Pro v 3
+for hrs and hrs and hrs.
+It includes:
+rob.mdl		the model
+robbed.bmp	logo/decal
+rob.jpg		screenshot
+rob.bmp		use for HL menu
+rob.txt		this text file
+
+When?
+It was made today September 5th of the year 19 hundred and 99.
+
+Now What?
+Use rob for Half-Life DM - frag em' all.
+
+Author's additional comments:
+It isn't all that I wanted because of limitations on faces
+and the fact that an artist I am not.
+This model was a particular challenge because of all the details.
+Just wish there was a way to make semi-transparent faces.
+The legs would have been more true to life, but I was determined
+to keep the face count down - also would have added real coils
+to the sides of the head instead of my crappy drawing.
+Note: Using a mouse for artwork sucks.
+
+Mail me with any words of wisdom if you like -
+or kick my butt on WON like everyone else...
+Laters.
+Mattt
+

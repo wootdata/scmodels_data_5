@@ -1,0 +1,14 @@
+------------------------------------------------------
+Yokohama Tire  (Smileage)
+for Sven Co-op 5.0 player model
+
+Yokohama Tire Corp's old scary mascot character.
+
+Animation by Sven Co-op Team
+Model, Skin, Customized animation, Compiled by originaldon
+
+Programs Used: MilkShape 3D, Blender, SAI Ver.2, EDGE
+Website: http://tepodonsc35.g1.xrea.com/
+
+22-02-2019 completed
+------------------------------------------------------

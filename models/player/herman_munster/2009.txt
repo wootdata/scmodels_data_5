@@ -1,0 +1,7 @@
+2008:
+Simple reskin inspired by an authorless user-made GTA:VC skin
+
+2009:
+Original unm_barney model onverted to 4.0b animations by Sven Co-op team (I simply swapped textures and renamed)
+
+-Marb750

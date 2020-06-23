@@ -1,0 +1,7 @@
+youmu_test
+
+Model :  Suke
+http://3d.nicovideo.jp/works/td27282
+
+2016/09/30
+Fixed animation.
