@@ -1,0 +1,35 @@
+Dukowski
+3D artist: Mike "Spider" Morace   Michael.Morace@Dynamix.com
+2D Artist: Zak "Pred" Kroft   Zachary.Kroft@Dynamix.com
+
+Place the two files in a new folder called 
+\sierra\half-life\valve\models\player\Dukowski
+The folder needs to be named the same as the
+model, or it won't work correctly.
+
+This is our first model for Half-Life. Dukowski, a cunning soldier, who is well
+skilled with combat weapons and explosives. He'll snipe you from the shadows or
+get up in your face and crack your skull with a crowbar. Always look over your
+shoulder, cause he'll be there.
+
+Sorry, no team colors in this one. I may do it in the future, but I couldn't mess with 
+Pred's pretty skin. We'll be doing more skins in the future, to fill out the team.
+
+If anyone would like to use this for mods, or put up a team server, contact us.
+
+Mike "Spider" Morace
+KingMinos@aol.com
+Wavelength - Half-Life Editing
+http://www.planethalflife.com\wavelength
+
+Thanks to Valve, for not only a great game, but a great game to edit. We're looking 
+forward to Team Fortress 2!
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.

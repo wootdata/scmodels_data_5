@@ -1,0 +1,11 @@
+Gibbed player skin for Half-Life
+=======================
+Gibbed is my first attempt at a player skin for Half-Life, based on the Gordon model.  He's had a rough day, but Gibby's not down for the count yet!  He sports nicely exposed glistening organs and patches of more-or-less intact skin over much larger stretches of exposed muscle and general gore.
+ 
+I was inspired by the fine "Sheet o' Carnage" texture map from Q3, and parts of it went into making Gibbed.
+
+To use, extract gibbed.mdl and gibbed.bmp to Half-Life\valve\models\player\gibbed.
+
+General comments to:
+chuckles@clanfist.com
+
