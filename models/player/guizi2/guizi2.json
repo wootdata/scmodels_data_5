@@ -1447,19 +1447,19 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "绑定上身.bmp",
+			"name": ".bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "头部贴图999.bmp",
+			"name": "999.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "腿部贴图1.bmp",
+			"name": "1.bmp",
 			"width": 512
 		}, 
 		{
