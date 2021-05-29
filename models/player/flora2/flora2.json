@@ -1,1 +1,396 @@
-{"seq_groups": 1, "hash": "b964f0f8598fdf619bbe108b9f713d22", "tri_count": "4591", "t_model": "flora2t.mdl"}
+{
+	"attachments": [
+		{
+			"bone": 20,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 13,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "trg_buffclassb",
+					"polys": 2824,
+					"verts": 1451
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "trg_buffclassb2",
+					"polys": 1767,
+					"verts": 1009
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "854993c6508d77350590dd9bb605b2f0",
+	"name": "flora.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 61,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 61,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 61,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 37,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 4.000000,
+			"frames": 31,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 31,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "jump"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "swim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 61,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "dummy"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 86,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 48,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 59,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 59,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 77,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_draw_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_crowbar"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 41,
+			"name": "ref_shoot_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_draw_crowbar"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_crowbar"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 41,
+			"name": "crouch_shoot_crowbar"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Eye_Sub",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 Neck_Sub",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Forearm_Sub",
+			"parent": 12
+		}, 
+		{
+			"name": "L UpperArm_Sub",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Clavicle_Sub",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Forearm_Sub",
+			"parent": 19
+		}, 
+		{
+			"name": "R UpperArm_Sub",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Clavicle_Sub",
+			"parent": 17
+		}, 
+		{
+			"name": "Breast_Sub",
+			"parent": 4
+		}, 
+		{
+			"name": "Spine_Sub",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 28
+		}, 
+		{
+			"name": "L Hip_Sub",
+			"parent": 26
+		}, 
+		{
+			"name": "L Calf_Sub",
+			"parent": 26
+		}, 
+		{
+			"name": "L Thigh_Sub",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 35
+		}, 
+		{
+			"name": "R Hip_Sub",
+			"parent": 33
+		}, 
+		{
+			"name": "R Calf_Sub",
+			"parent": 33
+		}, 
+		{
+			"name": "R Thigh_Sub",
+			"parent": 33
+		}, 
+		{
+			"name": "Skult_Back",
+			"parent": 1
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "TRU512.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

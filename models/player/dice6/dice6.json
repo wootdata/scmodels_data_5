@@ -1,1 +1,67 @@
-{"seq_groups": 1, "hash": "50ddd3cac04b62bf5b11e3556b88ddbd", "tri_count": "36"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "cg1",
+					"polys": 12,
+					"verts": 8
+				}, 
+				{
+					"name": "cg2",
+					"polys": 12,
+					"verts": 8
+				}, 
+				{
+					"name": "cg3",
+					"polys": 12,
+					"verts": 8
+				}
+			],
+			"name": "parts"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "50ddd3cac04b62bf5b11e3556b88ddbd",
+	"name": "C:\\Documents and Settings\\Olli\\Omat tiedostot\\bw_sven\\chessgib\\c+",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "LAATIKKO"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint1",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "chess.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "white.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "black.bmp",
+			"width": 32
+		}
+	],
+	"version": 10
+}

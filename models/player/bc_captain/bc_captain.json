@@ -1,1 +1,189 @@
-{"seq_groups": 1, "hash": "e9d26a74b2e233cc8b87f82c0dd6a517", "tri_count": "1316"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "./reference",
+					"polys": 1316,
+					"verts": 769
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "e9d26a74b2e233cc8b87f82c0dd6a517",
+	"name": "C:\\Backup\\Bumper Car Models\\Models\\captain\\captain.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "seq-name"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "joint35",
+			"parent": -1
+		}, 
+		{
+			"name": "joint36",
+			"parent": 0
+		}, 
+		{
+			"name": "joint37",
+			"parent": 1
+		}, 
+		{
+			"name": "joint38",
+			"parent": 2
+		}, 
+		{
+			"name": "joint39",
+			"parent": 3
+		}, 
+		{
+			"name": "joint40",
+			"parent": 4
+		}, 
+		{
+			"name": "joint41",
+			"parent": 5
+		}, 
+		{
+			"name": "joint42",
+			"parent": 6
+		}, 
+		{
+			"name": "joint43",
+			"parent": 7
+		}, 
+		{
+			"name": "joint44",
+			"parent": 8
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 176,
+			"name": "capnfront.bmp",
+			"width": 112
+		}, 
+		{
+			"flags": 0,
+			"height": 176,
+			"name": "Capnback.bmp",
+			"width": 112
+		}, 
+		{
+			"flags": 0,
+			"height": 144,
+			"name": "capnsleeve.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "pat.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "fluff.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "fronthand.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "backhand.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "roundshine.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "capnpants.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "pegleg.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 80,
+			"name": "Capnboot.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 24,
+			"name": "Capnfoot.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "hair.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "feather.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "Capnhat.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "side.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 47,
+			"name": "seats.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "Clouds.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Leather.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

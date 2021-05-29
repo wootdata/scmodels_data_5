@@ -1,1 +1,55 @@
-{"seq_groups": 1, "hash": "ed92d78285f94f6c5c608d3927bcf6b3", "tri_count": "4262"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "s1",
+					"polys": 2056,
+					"verts": 1248
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "s2",
+					"polys": 2206,
+					"verts": 1326
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "ed92d78285f94f6c5c608d3927bcf6b3",
+	"name": "0.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "seq"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "kHED",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "crystal_cart.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

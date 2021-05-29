@@ -1,1 +1,49 @@
-{"seq_groups": 1, "hash": "a550e16c86b7f51eade9f29726406d7c", "tri_count": "896"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sphere1",
+					"polys": 896,
+					"verts": 450
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "a550e16c86b7f51eade9f29726406d7c",
+	"name": "valve/models/testsphere.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 10.000000,
+			"frames": 26,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone01",
+			"parent": -1
+		}, 
+		{
+			"name": "Sphere01",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "checker.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

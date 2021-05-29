@@ -1,1 +1,982 @@
-{"seq_groups": 1, "hash": "729336e71911ce8f0b9650ddf7779f55", "tri_count": "260"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "chicken",
+					"polys": 260,
+					"verts": 130
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "729336e71911ce8f0b9650ddf7779f55",
+	"name": "chicken.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 26,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 128,
+			"name": "jump"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "swim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 65,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_2"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_12"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_7"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_13"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_12"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw_3"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_12"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw_4"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_13"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_14"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_13"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_15"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_14"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_12"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_14"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_12"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "throw_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_15"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_13"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_16"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_15"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_13"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_17"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_16"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_14"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_18"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_15"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_19"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_16"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_14"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_20"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_15"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_21"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_12"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_17"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_16"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_22"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_17"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_16"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_23"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_18"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_19"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_17"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_24"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_25"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_26"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_13"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_14"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_18"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_19"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_17"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_27"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_28"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_29"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_15"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_16"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_20"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_18"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_30"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack_5"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_17"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_18"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_20"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_18"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_31"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "big_attack_6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_19"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_20"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_21"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_19"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_32"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_20"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_33"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_21"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_21"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_19"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_34"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_20"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_35"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_22"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "draw_22"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "aim_21"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_36"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_23"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_draw_22"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "crouch_aim_21"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 15,
+			"name": "attack_37"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 40,
+			"name": "reload_24"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_8"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_9"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_10"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_11"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 2,
+			"name": "dead_12"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "ltHip",
+			"parent": -1
+		}, 
+		{
+			"name": "ltJoint",
+			"parent": 0
+		}, 
+		{
+			"name": "ltFoot",
+			"parent": 1
+		}, 
+		{
+			"name": "rtHip",
+			"parent": -1
+		}, 
+		{
+			"name": "rtJoint",
+			"parent": 3
+		}, 
+		{
+			"name": "rtFoot",
+			"parent": 4
+		}, 
+		{
+			"name": "Body",
+			"parent": -1
+		}, 
+		{
+			"name": "Neck",
+			"parent": 6
+		}, 
+		{
+			"name": "Head",
+			"parent": 7
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 139,
+			"name": "skin.bmp",
+			"width": 156
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,479 @@
-{"seq_groups": 1, "hash": "4719bae114ec1f034f584e8403b4a61c", "tri_count": "689"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "stukabat_Template_Biped1",
+					"polys": 689,
+					"verts": 338
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 1,
+			"frame": 20,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 21,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 9,
+			"frame": 18,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 9,
+			"frame": 3,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "4719bae114ec1f034f584e8403b4a61c",
+	"name": "valve/models/stukabat.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 12.000000,
+			"frames": 41,
+			"name": "Land_ceiling"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 56,
+			"name": "Land_ground"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 26,
+			"name": "Attack_bomb"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 14,
+			"name": "Attack_claw"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 7,
+			"name": "Dive_cycler"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 41,
+			"name": "Death_fall_simple"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 51,
+			"name": "Death_fall_violent"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "fall_cycler"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 16,
+			"name": "Flinch_big"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 9,
+			"name": "Flinch_small"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 26,
+			"name": "Flying_cycler"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 11,
+			"name": "Flying_turn_left"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 11,
+			"name": "Flying_turn_right"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 8,
+			"name": "Hover"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 41,
+			"name": "Die_on_ground"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 9,
+			"name": "Flinch_on_ground"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 61,
+			"name": "Eat_on_ground"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 46,
+			"name": "Disply_fidget_on_ground"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Subtle_fidget_on_ground"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 17,
+			"name": "Ground_walk"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 21,
+			"name": "Subtle_fidget"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "Preen_fidget"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 16,
+			"name": "Swing_fidget"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "Take_off_from_land"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone02",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 0
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 2
+		}, 
+		{
+			"name": "",
+			"parent": 3
+		}, 
+		{
+			"name": "",
+			"parent": 4
+		}, 
+		{
+			"name": "",
+			"parent": 5
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 7
+		}, 
+		{
+			"name": "",
+			"parent": 8
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 11
+		}, 
+		{
+			"name": "",
+			"parent": 12
+		}, 
+		{
+			"name": "",
+			"parent": 13
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 16
+		}, 
+		{
+			"name": "",
+			"parent": 17
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 19
+		}, 
+		{
+			"name": "",
+			"parent": 20
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 22
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 24
+		}, 
+		{
+			"name": "",
+			"parent": 25
+		}, 
+		{
+			"name": "",
+			"parent": 26
+		}, 
+		{
+			"name": "",
+			"parent": 13
+		}, 
+		{
+			"name": "",
+			"parent": 28
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 30
+		}, 
+		{
+			"name": "",
+			"parent": 31
+		}, 
+		{
+			"name": "",
+			"parent": 32
+		}, 
+		{
+			"name": "",
+			"parent": 33
+		}, 
+		{
+			"name": "",
+			"parent": 34
+		}, 
+		{
+			"name": "",
+			"parent": 35
+		}, 
+		{
+			"name": "",
+			"parent": 33
+		}, 
+		{
+			"name": "",
+			"parent": 33
+		}, 
+		{
+			"name": "",
+			"parent": 38
+		}, 
+		{
+			"name": "",
+			"parent": 39
+		}, 
+		{
+			"name": "",
+			"parent": 33
+		}, 
+		{
+			"name": "",
+			"parent": 41
+		}, 
+		{
+			"name": "",
+			"parent": 42
+		}, 
+		{
+			"name": "",
+			"parent": 33
+		}, 
+		{
+			"name": "",
+			"parent": 44
+		}, 
+		{
+			"name": "",
+			"parent": 32
+		}, 
+		{
+			"name": "",
+			"parent": 46
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 48
+		}, 
+		{
+			"name": "",
+			"parent": 49
+		}, 
+		{
+			"name": "",
+			"parent": 50
+		}, 
+		{
+			"name": "",
+			"parent": 51
+		}, 
+		{
+			"name": "",
+			"parent": 52
+		}, 
+		{
+			"name": "",
+			"parent": 50
+		}, 
+		{
+			"name": "",
+			"parent": 54
+		}, 
+		{
+			"name": "",
+			"parent": 50
+		}, 
+		{
+			"name": "",
+			"parent": 56
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 58
+		}, 
+		{
+			"name": "",
+			"parent": 59
+		}, 
+		{
+			"name": "",
+			"parent": 58
+		}, 
+		{
+			"name": "",
+			"parent": 61
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 54,
+			"name": "STUKA_Intake1.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 100,
+			"name": "STUKA_Side1.bmp",
+			"width": 148
+		}, 
+		{
+			"flags": 0,
+			"height": 73,
+			"name": "STUKA_Head1.bmp",
+			"width": 116
+		}, 
+		{
+			"flags": 0,
+			"height": 106,
+			"name": "STUKA_Wing1.bmp",
+			"width": 148
+		}, 
+		{
+			"flags": 0,
+			"height": 34,
+			"name": "STUKA_Delt1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 36,
+			"name": "STUKA_Delt2.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 39,
+			"name": "STUKA_Tounge1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "STUKA_Jaw1.bmp",
+			"width": 48
+		}
+	],
+	"version": 10
+}
