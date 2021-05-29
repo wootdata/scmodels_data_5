@@ -169,6 +169,7 @@
 			"name": "Take_off_from_land"
 		}
 	],
+	"size": 205936,
 	"skeleton": [
 		{
 			"name": "Bone02",

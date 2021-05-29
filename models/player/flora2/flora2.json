@@ -216,6 +216,7 @@
 			"name": "crouch_shoot_crowbar"
 		}
 	],
+	"size": 743244,
 	"skeleton": [
 		{
 			"name": "Bip01",
