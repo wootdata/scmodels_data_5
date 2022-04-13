@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 23,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 23,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 23,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +20,12 @@
 		{
 			"models": [
 				{
-					"name": "civilian_HUNTED_Template1",
-					"polys": 616,
-					"verts": 326
+					"name": "lqc",
+					"polys": 168,
+					"verts": 112
 				}
 			],
-			"name": "body"
+			"name": "lqc"
 		}
 	],
 	"controllers": [
@@ -68,6 +63,13 @@
 		}
 	],
 	"events": [
+		{
+			"event": 5004,
+			"frame": 5,
+			"options": "player/playersounds/mario_swim.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
 		{
 			"event": 2001,
 			"frame": 9,
@@ -146,30 +148,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +303,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "425c9d6b1c35e67bf14196c4a31e8f7e",
-	"name": "civilian.mdl",
+	"md5": "f53e7562cfbba918a29158345d512d56",
+	"name": "cs_lqc.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,59 +1216,9 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 9,
-			"name": "barnaclehit"
-		}, 
-		{
-			"fps": 25.000000,
-			"frames": 81,
-			"name": "barnaclepull"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 36,
-			"name": "barnaclecrunch"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 36,
-			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 21,
-			"name": "use_console_loop"
-		}, 
-		{
-			"fps": 20.000000,
-			"frames": 201,
-			"name": "use_console_loop2"
-		}, 
-		{
-			"fps": 18.000000,
-			"frames": 66,
-			"name": "action_retina"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 81,
-			"name": "action_studycart"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 22,
-			"name": "action_wave"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 1,
-			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 943168,
+	"size": 892136,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1341,52 +1293,72 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 20
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 21
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 23
+			"parent": 20
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
+			"flags": 65,
 			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"name": "lqcbody.bmp",
+			"width": 128
 		}, 
 		{
-			"flags": 0,
+			"flags": 65,
 			"height": 128,
-			"name": "DM_Base2.bmp",
+			"name": "lqctou.bmp",
 			"width": 128
+		}, 
+		{
+			"flags": 65,
+			"height": 96,
+			"name": "lqcarm.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 65,
+			"height": 64,
+			"name": "lqcarm2.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 65,
+			"height": 96,
+			"name": "lqchand.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 65,
+			"height": 128,
+			"name": "lqcleg.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 65,
+			"height": 128,
+			"name": "lqcleg2.bmp",
+			"width": 96
+		}, 
+		{
+			"flags": 65,
+			"height": 96,
+			"name": "lqcfoot.bmp",
+			"width": 96
 		}
 	],
 	"version": 10

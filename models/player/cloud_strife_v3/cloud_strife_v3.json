@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 23,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 23,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 23,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,12 +25,32 @@
 		{
 			"models": [
 				{
-					"name": "civilian_HUNTED_Template1",
-					"polys": 616,
-					"verts": 326
+					"name": "cro01",
+					"polys": 3484,
+					"verts": 1887
 				}
 			],
-			"name": "body"
+			"name": "body1"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cro02",
+					"polys": 2991,
+					"verts": 1808
+				}
+			],
+			"name": "body2"
+		}, 
+		{
+			"models": [
+				{
+					"name": "cro03",
+					"polys": 1628,
+					"verts": 988
+				}
+			],
+			"name": "body3"
 		}
 	],
 	"controllers": [
@@ -301,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "425c9d6b1c35e67bf14196c4a31e8f7e",
-	"name": "civilian.mdl",
+	"md5": "0ca1cc7c297b6548aceef6a6e40d17eb",
+	"name": "cloud_strife.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1247,7 +1267,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 66,
+			"frames": 71,
 			"name": "action_retina"
 		}, 
 		{
@@ -1259,14 +1279,9 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 1,
-			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 943168,
+	"size": 1188512,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1341,36 +1356,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 20
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 21
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 23
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1378,15 +1377,93 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"height": 64,
+			"name": "luva.bmp",
+			"width": 112
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "DM_Base2.bmp",
+			"height": 42,
+			"name": "MALHA.bmp",
+			"width": 240
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "SUSP01.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "SUSP02.bmp",
+			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 113,
+			"name": "zilper.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 192,
+			"name": "susp03.bmp",
+			"width": 56
+		}, 
+		{
+			"flags": 0,
+			"height": 133,
+			"name": "sola.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "tex02.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 156,
+			"name": "tex.bmp",
 			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 214,
+			"name": "belo03.bmp",
+			"width": 176
+		}, 
+		{
+			"flags": 0,
+			"height": 187,
+			"name": "faixa.bmp",
+			"width": 108
+		}, 
+		{
+			"flags": 0,
+			"height": 51,
+			"name": "skin3.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 103,
+			"name": "cala.bmp",
+			"width": 88
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "metal 01.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "soh.bmp",
+			"width": 40
 		}
 	],
 	"version": 10
