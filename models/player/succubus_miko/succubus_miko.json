@@ -1,0 +1,748 @@
+{
+	"attachments": [
+		{
+			"bone": 14,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 14,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 14,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 10,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "body1",
+					"polys": 732,
+					"verts": 422
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body1a",
+					"polys": 1049,
+					"verts": 608
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body2",
+					"polys": 1184,
+					"verts": 688
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body3",
+					"polys": 1644,
+					"verts": 886
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body3a",
+					"polys": 2616,
+					"verts": 1330
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit",
+					"polys": 2356,
+					"verts": 1237
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "suit_lace",
+					"polys": 68,
+					"verts": 70
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Heel",
+					"polys": 676,
+					"verts": 360
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "toshe",
+					"polys": 1100,
+					"verts": 618
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hand_L",
+					"polys": 1413,
+					"verts": 746
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hand_La",
+					"polys": 2688,
+					"verts": 1384
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hand_R",
+					"polys": 1413,
+					"verts": 746
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hand_Ra",
+					"polys": 2688,
+					"verts": 1384
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "head",
+					"polys": 2100,
+					"verts": 1123
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "horn1",
+					"polys": 2324,
+					"verts": 1241
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "horn1a",
+					"polys": 2352,
+					"verts": 1244
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "horn2",
+					"polys": 2324,
+					"verts": 1241
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "horn2a",
+					"polys": 2352,
+					"verts": 1244
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "wing",
+					"polys": 988,
+					"verts": 459
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "wolf",
+					"polys": 1542,
+					"verts": 793
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hair1",
+					"polys": 2627,
+					"verts": 1320
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hair2",
+					"polys": 594,
+					"verts": 313
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "hair3",
+					"polys": 398,
+					"verts": 264
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 2,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 3,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 4,
+			"end": 30.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 5,
+			"end": 30.000000,
+			"index": 3,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "87b4401f063133dbc323dbd4f01dc0d7",
+	"name": "Succubus.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "idle"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 30,
+			"name": "run2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 19,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 20,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 50,
+			"name": "jump"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 50,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 40,
+			"name": "swim"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 30,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 35,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 35,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 40,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 55,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 35,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 40,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 55,
+			"name": "gutshot"
+		}
+	],
+	"size": 3384848,
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 right eye",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 left eye",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Left Wing",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Right Wing",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Tail 1",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Tail 2",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 Tail 3",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 Tail 4",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 Tail 5",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 Tail 6",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 Tail 7",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 Right Hair1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Right Hair2",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 Right Hair3",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 Right Hair4",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 Left Hair1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Left Hair2",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 Left Hair3",
+			"parent": 38
+		}, 
+		{
+			"name": "Bip01 Left Hair4",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 backhair1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 backhair2",
+			"parent": 41
+		}, 
+		{
+			"name": "Bip01 backhair3",
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 backhair4",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 backhair5",
+			"parent": 44
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 4097,
+			"height": 512,
+			"name": "t_a.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4097,
+			"height": 512,
+			"name": "t_Arm.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4097,
+			"height": 512,
+			"name": "t_b.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4161,
+			"height": 78,
+			"name": "Lace.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 256,
+			"name": "Dress011_z1_accKubiwa.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 256,
+			"name": "Dress011_z1_accUde.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4099,
+			"height": 64,
+			"name": "asd.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 4099,
+			"height": 64,
+			"name": "Suit.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 4161,
+			"height": 56,
+			"name": "Lace2.bmp",
+			"width": 474
+		}, 
+		{
+			"flags": 4099,
+			"height": 64,
+			"name": "Heel_1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 4099,
+			"height": 64,
+			"name": "Heel_2.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "face.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 5,
+			"height": 512,
+			"name": "G_Eye.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 5,
+			"height": 64,
+			"name": "eye_light.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 1,
+			"height": 256,
+			"name": "3medium.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 65,
+			"height": 256,
+			"name": "kimera_wing01.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "tex002.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "hair1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 256,
+			"name": "hair2.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}
