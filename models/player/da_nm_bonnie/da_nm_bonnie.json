@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0ccdfa871cc35ef810ee1df663137342",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Admin\\Desktop\\c0nversion\\DA_nightmare_",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

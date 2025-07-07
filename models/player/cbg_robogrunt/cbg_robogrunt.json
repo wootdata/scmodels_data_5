@@ -73,6 +73,7 @@
 			"name": "DGF"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71750ededcf9c1238b02eb0e016a8e62",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DGF_robogrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

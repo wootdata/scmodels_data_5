@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9d2f269acdd6140e20f05aa9f34bb68f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soi_hev_noglasses.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

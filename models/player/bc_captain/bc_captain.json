@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1045907100,
 	"events": [],
 	"id": 1414743113,
 	"md5": "e9d26a74b2e233cc8b87f82c0dd6a517",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Backup\\Bumper Car Models\\Models\\captain\\captain.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

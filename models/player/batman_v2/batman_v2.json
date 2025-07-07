@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1591331711,
 	"events": [
@@ -255,7 +256,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1583685a209a67401bbf0e43fef8a711",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "batman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

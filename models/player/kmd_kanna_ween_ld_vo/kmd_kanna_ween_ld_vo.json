@@ -158,6 +158,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -492,7 +493,11 @@
 	],
 	"id": 1414743113,
 	"md5": "67c35b1bc896d35e56e8c006cc874d15",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kmd_kanna_christmas_ld.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "881c9fc52f9589a85a6a0e2e2a6a4b9a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_c_soldier_armor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

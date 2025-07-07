@@ -243,6 +243,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -908,7 +909,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a91696596dc5c7798637772ec6bb89af",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MAD_Venti.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

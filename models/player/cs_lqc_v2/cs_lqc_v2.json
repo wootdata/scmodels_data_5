@@ -28,6 +28,7 @@
 			"name": "lqc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f53e7562cfbba918a29158345d512d56",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cs_lqc.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

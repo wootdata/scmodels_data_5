@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 20,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8a7687254761b039e7d6ffe37d1524e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gs.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

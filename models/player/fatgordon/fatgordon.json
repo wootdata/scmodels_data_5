@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b464d7979aa4ecb42df34cba0cb1a272",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Zombie/zombie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

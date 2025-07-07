@@ -243,6 +243,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -507,7 +508,11 @@
 	],
 	"id": 1414743113,
 	"md5": "80590f3c514e6f31e312a5ac2d0ba87c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Meru.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

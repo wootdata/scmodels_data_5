@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4c1c9fe9d6a7bd6e2df52511e7ff0262",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "humanshrek.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

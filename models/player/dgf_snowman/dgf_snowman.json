@@ -33,6 +33,7 @@
 			"name": "DGF"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0449df087ca8ef65d751beb72ef16490",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DGF_Snowman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

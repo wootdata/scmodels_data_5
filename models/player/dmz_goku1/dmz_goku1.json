@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2a0e56460fcd5f8e7e29dbd508a9aa3c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmz_goku1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

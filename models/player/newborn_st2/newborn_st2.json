@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff1bb3914737e4768903fe0fe0fd8edb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\gabri\\OneDrive\\Escritorio\\carpetas con weas\\ssas\\wea1\\G #",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1425897729,
 	"events": [],
 	"id": 1414743113,
 	"md5": "729336e71911ce8f0b9650ddf7779f55",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chicken.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

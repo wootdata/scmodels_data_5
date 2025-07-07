@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "015c3287b5068eb40e26110ca6d1de0a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CSTerror.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

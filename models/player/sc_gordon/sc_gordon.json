@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "aa8ccf706f2b9c8ca4988b6a7f9504f3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_gordon.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

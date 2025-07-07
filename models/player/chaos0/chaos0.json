@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -293,7 +294,11 @@
 	],
 	"id": 1414743113,
 	"md5": "60e79eac80401080173b9510e6739c3e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Chaos.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

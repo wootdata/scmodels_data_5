@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a683609b5e68907f96bc4450b76c0be3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SovArmy_1970wpanama.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

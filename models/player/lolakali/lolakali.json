@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d49c4988fc5e8a3f05f4b2a65bce9f6c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "LoLAkali.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

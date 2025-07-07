@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d331a1289d42c9e4391d66f4d5439a4f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dawae.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

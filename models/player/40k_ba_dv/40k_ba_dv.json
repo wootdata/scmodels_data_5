@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -355,7 +356,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c82a3e3550b4eaaa57d23b3224accf2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "40k_Heavy_marine_2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

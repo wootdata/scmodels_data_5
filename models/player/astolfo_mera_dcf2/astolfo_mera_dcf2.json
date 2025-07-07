@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -772,7 +773,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1470f6968eeb335ebd4fb96311feaac4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "astolfo_mera_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

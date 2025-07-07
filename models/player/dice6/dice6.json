@@ -22,12 +22,17 @@
 			"name": "parts"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1149496976,
 	"events": [],
 	"id": 1414743113,
 	"md5": "50ddd3cac04b62bf5b11e3556b88ddbd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Olli\\Omat tiedostot\\bw_sven\\chessgib\\c+",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

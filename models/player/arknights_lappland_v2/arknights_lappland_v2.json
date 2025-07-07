@@ -303,6 +303,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1648375039,
 	"events": [
@@ -918,7 +919,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7fa1da809f772dc99d6b3042095c57ef",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "Arknights_Lappland.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

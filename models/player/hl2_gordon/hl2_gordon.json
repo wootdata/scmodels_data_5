@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6358363af7f64fd27471b6d63980a92b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HL2_gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

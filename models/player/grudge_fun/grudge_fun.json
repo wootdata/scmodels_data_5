@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1147501960,
 	"events": [
@@ -46,7 +47,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4719bae114ec1f034f584e8403b4a61c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/stukabat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

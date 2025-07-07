@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8d2a65e7b00055f6e44ddd24c655ef4a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SPP_Wolfwood.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

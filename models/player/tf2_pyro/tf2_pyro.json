@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -352,7 +353,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1e9e0741c8ea97647b7837691b543648",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TF2_pyro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

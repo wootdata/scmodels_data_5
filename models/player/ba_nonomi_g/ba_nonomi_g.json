@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -734,7 +735,11 @@
 	],
 	"id": 1414743113,
 	"md5": "465490fab3246dd4c5c383170301d4e4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Nonomi_G.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

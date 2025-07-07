@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e28dd3c958398aa7161d4a2a445f3d53",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Pyro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

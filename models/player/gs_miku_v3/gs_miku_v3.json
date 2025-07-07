@@ -83,6 +83,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c9193883e6576f48d0f0cbd568be4f00",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_WhiteHeart.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

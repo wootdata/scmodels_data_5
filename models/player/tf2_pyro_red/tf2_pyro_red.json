@@ -63,6 +63,7 @@
 			"name": "stuff"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -389,7 +390,11 @@
 	],
 	"id": 1414743113,
 	"md5": "125783f567b2a2a86a513d7ee16d2482",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_pyro_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "body3"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0ca1cc7c297b6548aceef6a6e40d17eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cloud_strife.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

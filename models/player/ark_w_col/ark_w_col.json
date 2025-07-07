@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -443,7 +444,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b369cacdcd037a6653160321d431a519",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ark_w_col.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

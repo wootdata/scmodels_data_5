@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 37,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8c2fe4985c818eccb0069c06c111058",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevscientist5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

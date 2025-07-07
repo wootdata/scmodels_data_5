@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0e9456c09c8edf2aab5ead144715e247",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\catwoman\\Catwoman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

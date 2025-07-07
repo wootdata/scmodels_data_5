@@ -73,6 +73,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b5339c212b5be0d1d695c6d698415a2e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gsg9.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

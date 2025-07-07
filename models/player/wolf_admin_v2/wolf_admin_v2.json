@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "31c8be9edd651145ec37ecbb33512ecb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Wolf_Admin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

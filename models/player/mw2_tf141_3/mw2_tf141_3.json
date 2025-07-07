@@ -73,6 +73,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e54a2485a0336d50b24b894653a1281e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

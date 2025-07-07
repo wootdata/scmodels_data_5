@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1520092835,
 	"events": [
@@ -88,7 +89,11 @@
 	],
 	"id": 1414743113,
 	"md5": "854993c6508d77350590dd9bb605b2f0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "flora.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

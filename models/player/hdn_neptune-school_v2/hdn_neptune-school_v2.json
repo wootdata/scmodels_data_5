@@ -52,6 +52,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -764,7 +765,11 @@
 	],
 	"id": 1414743113,
 	"md5": "941a463d2670930488925527430301b1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neptune-school.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

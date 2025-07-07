@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a0ecb500d407f86a884e758ffd4fe62f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\MilkShape 3D\\Wanted\\MP Models\\rogan.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

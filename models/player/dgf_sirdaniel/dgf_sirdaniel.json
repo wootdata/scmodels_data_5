@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -347,7 +348,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bbf71cb7e3c84b9b0d4134f29a595b19",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DGF_SirDaniel_test2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2af956506e8a5430c3ff7bab96f966d5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Maximiliano\\Desktop\\aaa\\yellow\\yellow.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

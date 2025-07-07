@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1064718128,
 	"events": [],
 	"id": 1414743113,
 	"md5": "a550e16c86b7f51eade9f29726406d7c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/testsphere.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

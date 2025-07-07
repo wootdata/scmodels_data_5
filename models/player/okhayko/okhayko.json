@@ -83,6 +83,7 @@
 			"name": "SVEN_Team_Body6"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "156171b8f9591f9b5d1952308f5e6a20",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "okhayko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

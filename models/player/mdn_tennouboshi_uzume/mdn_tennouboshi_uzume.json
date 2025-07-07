@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -731,7 +732,11 @@
 	],
 	"id": 1414743113,
 	"md5": "16221c654947af89e18bf5d140a60da7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MDN_Tennouboshi_Uzume.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

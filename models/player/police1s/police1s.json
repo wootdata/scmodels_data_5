@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -429,7 +430,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f85ee3d4c168f8f6381aa18876e0af8f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "police1.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
