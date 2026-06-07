@@ -1,0 +1,4 @@
+Blue Rabbit Mirage from Counter-Strike: Online/Counter-Strike: Nexon, ported to SC by Ryor.
+The model has color remap. For original colors use:
+topcolor 134
+bottomcolor 130
