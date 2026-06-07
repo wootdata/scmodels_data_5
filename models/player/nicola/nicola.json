@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092279,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "a236e364445ffa77c04282a1d26560eb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "nicola.mdl",
 	"preview": true,
 	"readme": false,

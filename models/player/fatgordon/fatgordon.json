@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1002458264,
+	"date": 1780811525,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "b464d7979aa4ecb42df34cba0cb1a272",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Zombie/zombie.mdl",
 	"preview": true,
 	"readme": false,

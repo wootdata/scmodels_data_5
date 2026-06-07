@@ -158,7 +158,7 @@
 			"type": 8
 		}
 	],
-	"date": 1704227244,
+	"date": 1780811525,
 	"events": [
 		{
 			"event": 5004,
@@ -683,6 +683,7 @@
 	"md5": "a99180a6d0536d13b8f76867eb61aeea",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "ba_wakamo.mdl",
 	"preview": true,
 	"readme": false,

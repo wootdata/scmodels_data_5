@@ -83,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1263771318,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -195,6 +195,7 @@
 	"md5": "b99151300a226a09dc7fd469001d2e4f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Hitler.mdl",
 	"preview": true,
 	"readme": false,

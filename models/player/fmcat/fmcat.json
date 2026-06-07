@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185444242,
+	"date": 1780811525,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "0e9456c09c8edf2aab5ead144715e247",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\catwoman\\Catwoman.mdl",
 	"preview": true,
 	"readme": false,

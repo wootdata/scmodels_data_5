@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 976327502,
+	"date": 1780811525,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "8a8220ea8a915ad12ca2bddfa428fa36",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/gman/Gman.mdl",
 	"preview": true,
 	"readme": false,

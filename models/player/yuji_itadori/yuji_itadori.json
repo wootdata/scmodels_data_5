@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 14,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "HEV_male_torso_reference",
-					"polys": 2787,
-					"verts": 1430
+					"name": "Yuji_Lines",
+					"polys": 1093,
+					"verts": 897
 				}
 			],
 			"name": "body"
@@ -30,9 +35,9 @@
 		{
 			"models": [
 				{
-					"name": "HEV_male_legs_reference",
-					"polys": 1276,
-					"verts": 651
+					"name": "Yuji_Eyes",
+					"polys": 738,
+					"verts": 404
 				}
 			],
 			"name": "body"
@@ -40,12 +45,122 @@
 		{
 			"models": [
 				{
-					"name": "HEV_helmet_head_reference",
-					"polys": 379,
-					"verts": 198
+					"name": "Yuji_Body1",
+					"polys": 2678,
+					"verts": 1455
 				}
 			],
-			"name": "head"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body2",
+					"polys": 2284,
+					"verts": 1368
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body3",
+					"polys": 2784,
+					"verts": 1550
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body4",
+					"polys": 2784,
+					"verts": 1550
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body5",
+					"polys": 1826,
+					"verts": 929
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body6",
+					"polys": 3148,
+					"verts": 1624
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body7",
+					"polys": 2038,
+					"verts": 1035
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Body8",
+					"polys": 2038,
+					"verts": 1035
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Hair1",
+					"polys": 2111,
+					"verts": 1156
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Hair2",
+					"polys": 3408,
+					"verts": 1841
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Face1",
+					"polys": 1559,
+					"verts": 879
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Yuji_Face2",
+					"polys": 3850,
+					"verts": 2039
+				}
+			],
+			"name": "body"
 		}
 	],
 	"colorable": false,
@@ -83,7 +198,7 @@
 			"type": 8
 		}
 	],
-	"date": 1780811525,
+	"date": 1774401739,
 	"events": [
 		{
 			"event": 2001,
@@ -163,30 +278,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -318,11 +433,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "0b3be9cf2eb295f0c36093596b85dbe1",
+	"md5": "cc4c8bd003ded3fdf21f1c3e5206e3a1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "dm_helmet.mdl",
+	"name": "Yuji_Itadori.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -389,7 +504,7 @@
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 19,
+			"frames": 41,
 			"name": "die_simple"
 		}, 
 		{
@@ -414,7 +529,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 21,
+			"frames": 66,
 			"name": "die_spin"
 		}, 
 		{
@@ -1236,9 +1351,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1701856,
+	"size": 2641904,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1285,68 +1445,24 @@
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
+			"parent": 13
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
+			"name": "Bip01 Head",
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1354,11 +1470,7 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 28
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1366,79 +1478,49 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 30
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
+			"parent": 19
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "HEV_torso.bmp",
-			"width": 596
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "HEV_arm.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "rubbergloveCHROME.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "HEV_leg_&_glove.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "visor_chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 127,
-			"name": "HEV_helmet.bmp",
+			"flags": 1,
+			"height": 128,
+			"name": "yuji_lines.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_helmet_top.bmp",
-			"width": 180
+			"flags": 1,
+			"height": 512,
+			"name": "yuji_eyes.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "yuji_base.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "yuji_hair.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "yuji_face.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

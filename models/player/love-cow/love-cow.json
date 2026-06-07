@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185457654,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "a037b197f3cb579a9032960304273a5d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Models\\Madcow\\MadCow.mdl",
 	"preview": true,
 	"readme": false,

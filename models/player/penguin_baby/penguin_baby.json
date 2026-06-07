@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1047757380,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "84b0fb963e87f2a973d8b98320f655e4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "penguin_baby.mdl",
 	"preview": true,
 	"readme": true,
